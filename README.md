@@ -8,3 +8,5 @@ Need to configure SpringSecurity and use the thymeleaf template to show the view
 
 
 If you use SpringMVC only instead of SpringBootMVC then more xml files required for the settings.
+
+Token= it is a temp password in HTTP basic.
