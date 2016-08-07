@@ -1,0 +1,9 @@
+.class
+*.jar
+*.log
+/target
+/.settings
+*.cmd
+/.mvn
+/bin
+.*
